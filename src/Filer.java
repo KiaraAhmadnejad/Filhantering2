@@ -7,4 +7,10 @@ public class Filer {
     boolean addToFiler = false;
     boolean overwriteFiler = false;
 
+    public void start() {
+
+
+    }
 }
+
+
